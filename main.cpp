@@ -6,5 +6,6 @@ int main()
 {
 	//move To Laptop
 	//get Clone To Desktop
+	//Pull to Desktop
 	return 0;
 }
